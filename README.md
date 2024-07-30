@@ -2,7 +2,7 @@
 ## Date: April/May 2024
 
 ### Description
-Collection of notes and resources for the Google Cloud Platform Associate Cloud Engineer certification, currated while stying for the exam in May 2024.
+Collection of notes and resources for the Google Cloud Platform Associate Cloud Engineer certification, curated while studying for the exam in May 2024.
 
 They somewhat follow the [official exam guide](https://cloud.google.com/certification/guides/cloud-engineer) and are based on the content available in April/May 2024. 
 
@@ -23,4 +23,4 @@ This is a personal collection of notes and resources for the Google Cloud Platfo
     - [Module 6 - Your Next Steps](google-provided/Preparing_for_ACE_Module_6.pdf)
     - Module 7 - Notes missing (sorry)
     - [Module 8 - Interconnecting Networks](google-provided/08_Interconnecting_Networks.pdf)
-    - [Module 9 - Load Balancing & Autoscalers](google-provided/09_Load_Balancing_and_Autoscaling.pdf)
+    - [Module 9 - Load Balancing & Autoscaling](google-provided/09_Load_Balancing_and_Autoscaling.pdf)
